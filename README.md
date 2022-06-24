@@ -33,6 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     -node server
 
   - Após os comandos acima entre neste link <http://localhost:8080/>
-  - O projeto já vai estar rodandod na sua máquina
+  - O projeto já vai estar rodando na sua máquina
 
 <p align="center"> by Diego Silva </p>
